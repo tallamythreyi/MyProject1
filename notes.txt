@@ -1,0 +1,8 @@
+red hat
+
+
+Verification ID: 01277b8a
+Message ID: 0de81e66-14ea-4f5d-948c-2f6cbb1f34f3
+
+
+(/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.302.b08-0.amzn2.0.1.x86_64
